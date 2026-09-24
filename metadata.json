@@ -1,0 +1,6 @@
+{
+  "name": "OmniRouter Suite & Control Hub",
+  "description": "نظام مصادقة شامل مع لوحة تحكم مدير النظام ولوحة تحكم المستخدم وإدارة جميع الرواترات الموحدة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
